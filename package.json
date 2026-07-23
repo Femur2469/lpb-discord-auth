@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jeanpantaleon/cp_discord_auth/issues"
   },
-  "homepage": "https://github.com/jeanpantaleon/cp_discord_auth#readme"
+  "homepage": "https://github.com/jeanpantaleon/cp_discord_auth#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
 }
